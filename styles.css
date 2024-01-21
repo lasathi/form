@@ -1,0 +1,74 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.bd {
+	background-image:linear-gradient(purple,purple,blue);
+	height:700px;
+	width:900px;
+	margin:auto;
+	padding:20px;
+	border-radius:20px 20px;
+}
+.SA {
+		background-color:black;
+		height:600px;
+		width:700px;
+		margin:auto;
+		border-radius:20px 20px;
+	}
+.SA h1 {
+		font-size:26pt;
+		color:#ffffff;
+		text-align:center;
+		padding-top:30px;
+		}
+.SA-1 {
+	margin:10px;
+	padding:10px;
+}
+.SA-2 {
+	color:#ffffff;
+}
+.RS {
+	color:#ffffff;
+}
+.RS-1 {
+	color:#ffffff;
+	margin-left:280px;
+}
+sup {
+	color:red;
+}
+.IP {
+	width:300px;
+	border-radius:15px;
+	padding:7px;
+}
+.IP-1 {
+	width:300px;
+	border-radius:15px;
+	padding:7px;
+	margin-left:10px;
+}
+.IP-E {
+	width:610px;
+	border-radius:15px;
+	padding:10px;
+}
+.IP-L {
+	width:610px;
+	border-radius:15px;
+	padding:30px;
+}
+.IP-S {
+	background-color:red;
+	width:130px;
+	height:50px;
+	color:#ffffff;
+	border-radius:20px;
+	margin-left:270px;
+
+}
+.IP-S:hover {
+		color:gray;
+}
